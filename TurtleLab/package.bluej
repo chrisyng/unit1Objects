@@ -1,21 +1,12 @@
 #BlueJ package file
-<<<<<<< HEAD
 objectbench.height=100
 objectbench.width=1355
 package.editor.height=830
 package.editor.width=1562
 package.editor.x=-8
 package.editor.y=-8
-=======
-objectbench.height=76
-objectbench.width=686
-package.editor.height=400
-package.editor.width=560
-package.editor.x=2028
-package.editor.y=214
->>>>>>> 65ba68f0c9c66b6ec642ffa9e0f3cc9bc112ac8b
 package.numDependencies=0
-package.numTargets=1
+package.numTargets=2
 package.showExtends=true
 package.showUses=true
 project.charset=UTF-8
@@ -23,17 +14,10 @@ readme.editor.height=700
 readme.editor.width=900
 readme.editor.x=0
 readme.editor.y=22
-<<<<<<< HEAD
 target1.editor.height=1026
 target1.editor.width=1696
 target1.editor.x=-8
 target1.editor.y=-8
-=======
-target1.editor.height=1000
-target1.editor.width=1282
-target1.editor.x=1679
-target1.editor.y=25
->>>>>>> 65ba68f0c9c66b6ec642ffa9e0f3cc9bc112ac8b
 target1.height=50
 target1.name=TurtleLab
 target1.naviview.expanded=true
@@ -43,3 +27,11 @@ target1.typeParameters=
 target1.width=90
 target1.x=70
 target1.y=10
+target2.height=50
+target2.name=TurtleWorld
+target2.showInterface=false
+target2.type=ClassTarget
+target2.typeParameters=
+target2.width=90
+target2.x=170
+target2.y=10
